@@ -89,10 +89,10 @@ main {
   text-align: center;
   vertical-align: middle;
 }
-/* 
+ 
 .footer a {
-  vertical-align: middle;
-}*/
+  color: white;
+}
 
 /* MEDIA QUERIES */
 @media (max-width: 850px) {
